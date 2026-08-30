@@ -11,7 +11,7 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
+|   Team Leader   | Mega Deep Chelliboyina  | CB.SC.U4CSE25337       |    Male         | B.tech/CSE                     |  
 |    Member 2     |                         |                        |                 |                                 |  
 |    Member 3     |                         |                        |                 |                                 |  
 |    Member 4     |                         |                        |                 |                                 |   
@@ -22,7 +22,7 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       |  Dr.gowtham Ramesh  | Assocciate Professor  |      Cse                |  r_gowtham@cb.amrita.edu |
 | Industry       |                     |                       |                         |                          |
 
 -----
@@ -31,10 +31,10 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:SIH26038
+* **Problem Statement Title:Explainable AI for Diabetic Retinopathy Screening in Rural Indida
+* **Theme / Category: Biotech / Software
+* **Ministry / Organization: Mathworks
 
 #### PS#2
 
