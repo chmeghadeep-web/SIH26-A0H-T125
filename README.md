@@ -12,7 +12,7 @@
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader   | Mega Deep Chelliboyina  | CB.SC.U4CSE25337       |    Male         | B.tech/CSE                     |  
-|    Member 2     |                         |                        |                 |                                 |  
+|    Member 2     | Manasa Mahaadevan       | CB.SC.U4CSE25336       |     Female      | B.tech/CSE                     |  
 |    Member 3     |                         |                        |                 |                                 |  
 |    Member 4     |                         |                        |                 |                                 |   
 |    Member 5     |                         |                        |                 |                                 |  
