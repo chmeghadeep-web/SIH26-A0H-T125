@@ -11,12 +11,12 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   | Mega Deep Chelliboyina  | CB.SC.U4CSE25337       |    Male         | B.tech/CSE                     |  
-|    Member 2     | Manasa Mahaadevan       | CB.SC.U4CSE25336       |     Female      | B.tech/CSE                     |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |Mega Deep Chelliboyina   |CB.SC.U4CSE25337        |     Male        | B.tech/CSE                      |  
+|    Member 2     |Manasa Mahaadevan        |CB.SC.U4CSE25336        |     Female      | B.tech/CSE                      |  
+|    Member 3     |Suchir Manikanta Adike   |CB.SC.U4CSE2557         |     Male        | B.tech/CSE                      |  
+|    Member 4     |Srikakolapu Surya Sanjith|CB.SC.U4CSE25356        |     Male        | B.tech/CSE                      |   
+|    Member 5     |Smera Mridula J          |CB.SC.U4CSE25355        |     Female      | B.tech/CSE                      |  
+|    Member 6     |Thanisa S                |CB.SC.U4CSE25358        |     Female      | B.tech/CSE                                |   
 
 #### Mentor Details
 
