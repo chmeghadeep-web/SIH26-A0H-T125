@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:**SIH26085
-* **Problem Statement Title:**Urban Flood Nowcasting system (Drainage and Raining Coupling)
-* **Theme / Category:**Disaster Management
-* **Ministry / Organization:**Ministry of Earth Sciences(MoES)
+* **Problem Statement ID:**SIH26089
+* **Problem Statement Title:** Cooperative Gig Services Platform for Household & Community Services
+* **Theme / Category:** Agriculture, FoodTech & Rural Development
+* **Ministry / Organization:** Ministry of Cooperation
